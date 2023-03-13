@@ -1,0 +1,19 @@
+body{
+
+    background-image: url("background2.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+
+    font-family: Arial, Helvetica, sans-serif;
+
+    
+    color:rgba(254, 251, 251, 0.831)
+
+}
+instagram-icon {
+    padding: 2px 3px 1px 3px;
+    background: #222;
+    color: #fff;
+    margin: 5px;
+    border-radius: 4px;
+}
